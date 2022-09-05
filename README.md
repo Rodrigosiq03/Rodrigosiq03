@@ -3,7 +3,7 @@
 <p>Muito prazer, meu nome é Rodrigo Diana Siqueira, estou cursando Ciência da Computação👨‍💻 no IMT(Instituto Mauá e Tecnologia)💻.<br>
   <br>Aqui será o local onde deixarei meu projetos, espero que goste!</p>
 
-<h3>Essas são as tecnologias as quais tenho familiaridade ou estou estudando:</h33>
+<h3>Essas são as tecnologias as quais tenho familiaridade ou estou estudando:</h3> <br>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">

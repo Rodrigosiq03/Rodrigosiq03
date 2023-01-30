@@ -25,8 +25,6 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigosiq03&layout=compact)](https://github.com/Rodrigosiq03/github-readme-stats)
-
 
 <h3> Estes são alguns projetos que participei:
   <table>

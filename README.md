@@ -43,6 +43,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Maua-Dev/clean_mss_typescript_template"><b>Clean Mss Typescript Template 🚀</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Maua-Dev/clean_mss_typescript_template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Maua-Dev/clean_mss_typescript_template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Maua-Dev/clean_mss_typescript_template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Maua-Dev/clean_mss_typescript_template?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Rodrigosiq03/CafeteriaJS"><b>CafeteriaJS ☕</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>

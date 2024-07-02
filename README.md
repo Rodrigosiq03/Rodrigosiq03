@@ -45,7 +45,7 @@
     <tr>
       <td><a href="https://github.com/org-dev-dynasty/hfx-equipamentos-mss"><b>hxf-equipamentos-mss</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/org-dev-dynasty/hfx-equipamentos-mss?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/org-dev-dynasty/hfx-equipamentos-mss?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/commit-activity/m/org-dev-dynasty/hxf-quipamentos-mss/dev"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/org-dev-dynasty/hfx-equipamentos-mss?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/org-dev-dynasty/hfx-equipamentos-mss?style=flat-square&labelColor=343b41"/></td>
     </tr>

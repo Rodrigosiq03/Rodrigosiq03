@@ -64,6 +64,27 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Maua-Dev/clean_mss_typescript_template?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Rodrigosiq03/notemaua-mss-auth"><b>notemaua-mss-auth 🧙🏼‍♂️</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/notemaua-mss-auth?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/notemaua-mss-auth?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rodrigosiq03/notemaua-mss-auth?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/notemaua-mss-auth?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Rodrigosiq03/notemaua-mss-withdraw"><b>notemaua-mss-withdraw 🧙🏼‍♂️</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rodrigosiq03/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/notemaua-mss-withdraw?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Rodrigosiq03/notemaua-mss-employee"><b>notemaua-mss-employee 🧙🏼‍♂️</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/notemaua-mss-employee?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/notemaua-mss-employee?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Rodrigosiq03/notemaua-mss-employee?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rodrigosiq03/notemaua-mss-employee?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Rodrigosiq03/CafeteriaJS"><b>CafeteriaJS ☕</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Rodrigosiq03/CafeteriaJS?style=flat-square&labelColor=343b41"/></td>
